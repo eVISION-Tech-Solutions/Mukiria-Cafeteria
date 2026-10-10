@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+node_modules
+venv
+db.sqlite3
+media
+static
+logs
+apps
+config
+*.py[cod]
